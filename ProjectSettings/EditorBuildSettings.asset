@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ComputeShader.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ParticleSystem.unity
+    guid: df55bd410ccaf6949ae11700320240e8
+  - enabled: 1
+    path: Assets/Scenes/Lighting.unity
+    guid: 399036c9b3894da4f9c4ec332deefd17
   m_configObjects: {}

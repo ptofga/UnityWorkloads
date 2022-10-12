@@ -14,6 +14,10 @@ public class MainUI : MonoBehaviour
    {
       SceneManager.LoadScene("ParticleSystem");
    }
+   public void LoadLighting()
+   {
+      SceneManager.LoadScene("Lighting");
+   }
    public void ExitGame()
    {
       Application.Quit();
