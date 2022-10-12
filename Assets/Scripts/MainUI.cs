@@ -10,6 +10,10 @@ public class MainUI : MonoBehaviour
    {
       SceneManager.LoadScene("ComputeShader");
    }
+   public void LoadParticleSystem()
+   {
+      SceneManager.LoadScene("ParticleSystem");
+   }
    public void ExitGame()
    {
       Application.Quit();
